@@ -19,7 +19,7 @@ def print_section(text):
 
 def main():
     try:
-        from rlm_sdk import RLMClient, quick_query
+        from pyrlmlite import RLMClient, quick_query
     except ImportError:
         print("ERROR: Could not import rlm_sdk")
         print("Make sure rlm_sdk.py is in the current directory or Python path")
