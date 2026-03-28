@@ -7,11 +7,11 @@ setup(
     name="rlm-sdk",
     version="0.1.0",
     author="Your Name",
-    author_email="your.email@example.com",
+    author_email="damomeshram@gmail.com",
     description="A simple SDK for building recursive language models with OpenAI",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/damodharm10/RLM",
+    url="https://github.com/dsmeshram/Recursive-Language-Models",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
