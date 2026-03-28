@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pyrlmlite",
-    version="0.1.1",
+    version="0.1.2",
     author="Damodhar Meshram",
     author_email="damomeshram@gmail.com",
     description="A simple SDK for building recursive language models with OpenAI",
