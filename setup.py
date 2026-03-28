@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="rlm-sdk",
+    name="pyrlmlite",
     version="0.1.0",
-    author="Your Name",
+    author="Damodhar Meshram",
     author_email="damomeshram@gmail.com",
     description="A simple SDK for building recursive language models with OpenAI",
     long_description=long_description,
